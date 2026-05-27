@@ -1,0 +1,60 @@
+SYSTEM GRAFIKÓW MEDYCZNYCH - PROPRIETARY LICENSE
+Version 1.0
+
+Copyright © 2026 Kamil Skaskiewicz. All rights reserved.
+
+---
+
+1. GRANT OF LICENSE
+
+You are granted a limited, non-exclusive, non-transferable, royalty-free license to use this software ("Software") in its compiled binary form, for any lawful purpose, including commercial use, subject to the terms and conditions of this License.
+
+2. RESTRICTIONS
+
+You agree NOT to:
+
+   a) Access, examine, or decompile the source code of the Software
+   b) Reverse engineer, disassemble, or attempt to derive the source code
+   c) Modify, alter, adapt, or translate the Software in any way
+   d) Create derivative works based on the Software
+   e) Remove or obscure any proprietary notices, labels, or marks on the Software
+   f) Distribute, sell, lease, or rent the Software or any portion thereof
+   g) Use the Software for any unlawful purpose
+
+3. INTELLECTUAL PROPERTY RIGHTS
+
+All intellectual property rights in the Software, including but not limited to copyrights, trademarks, trade secrets, and patents, are the exclusive property of Kamil Skaskiewicz. You do not acquire any ownership rights in the Software.
+
+4. USE OF SOFTWARE
+
+The Software is provided to you AS-IS for your personal or commercial use. You acknowledge that:
+
+   a) The Software may be used to manage medical staff schedules
+   b) The Software may be deployed in healthcare facilities
+   c) Multiple installations are permitted for legitimate organizational use
+   d) Commercial use and deployment in commercial healthcare facilities is permitted
+
+5. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL Kamil Skaskiewicz BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR LOSS OF PROFITS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.
+
+7. TERMINATION
+
+This License is effective until terminated. Your rights under this License will terminate automatically without notice if you fail to comply with any terms of this License. Upon termination, you must destroy all copies of the Software in your possession.
+
+8. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws of Poland.
+
+9. CONTACT
+
+For licensing inquiries or to report violations, please contact: Kamil Skaskiewicz
+Package ID: com.skaskiewicz.grafik-medyczny
+
+---
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS LICENSE AND AGREE TO BE BOUND BY ITS TERMS.

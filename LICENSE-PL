@@ -1,0 +1,60 @@
+SYSTEM GRAFIKÓW MEDYCZNYCH - LICENCJA WŁASNOŚCIOWA
+Wersja 1.0
+
+Copyright © 2026 Kamil Skaskiewicz. Wszystkie prawa zastrzeżone.
+
+---
+
+1. UDZIELENIE LICENCJI
+
+Użytkownikowi przyznaje się ograniczoną, niewyłączną, nieprzenoszalną, bezpłatną licencję na użytkowanie oprogramowania ("Oprogramowanie") w jego skompilowanej postaci binarnej, do dowolnego celu zgodnego z prawem, w tym do użytku komercyjnego, pod warunkiem spełnienia warunków niniejszej Licencji.
+
+2. OGRANICZENIA
+
+Użytkownik zobowiązuje się NIE:
+
+   a) Uzyskiwać dostępu, badać lub dekompilować kodu źródłowego Oprogramowania
+   b) Przeprowadzać inżynierii wstecznej, dezasemblacji lub prób pozyskania kodu źródłowego
+   c) Modyfikować, zmieniać, adaptować lub tłumaczyć Oprogramowania w jakikolwiek sposób
+   d) Tworzyć prac pochodnych na podstawie Oprogramowania
+   e) Usuwać ani ukrywać zastrzeżeń własnościowych, etykiet lub znaków znajdujących się w Oprogramowaniu
+   f) Rozpowszechniać, sprzedawać, dzierżawić lub wynajmować Oprogramowania lub jego części
+   g) Używać Oprogramowania do celów niezgodnych z prawem
+
+3. PRAWA AUTORSKIE I WŁASNOŚĆ INTELEKTUALNA
+
+Wszelkie prawa autorskie i prawa własności intelektualnej dotyczące Oprogramowania, w tym znaki handlowe, tajemnice handlowe i patenty, są wyłączną własnością Kamila Skaskiewicza. Użytkownik nie nabywa żadnych praw własności do Oprogramowania.
+
+4. UŻYTKOWANIE OPROGRAMOWANIA
+
+Oprogramowanie jest dostarczane w stanie TAKIM, JAKIE JEST do osobistego lub komercyjnego użytku. Użytkownik przyjmuje do wiadomości, że:
+
+   a) Oprogramowanie może być wykorzystywane do zarządzania harmonogramami personelu medycznego
+   b) Oprogramowanie może być wdrażane w placówkach ochrony zdrowia
+   c) Dozwolone są wielokrotne instalacje w ramach legalnego użytku organizacyjnego
+   d) Komercyjne użytkowanie i wdrażanie w komercyjnych placówkach medycznych jest dozwolone
+
+5. OGRANICZENIE ODPOWIEDZIALNOŚCI
+
+W MAKSYMALNYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO, KAMIL SKASKIEWICZ W ŻADNYM WYPADKU NIE PONOSI ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK SZKODY POŚREDNIE, PRZYPADKOWE, SZCZEGÓLNE, NASTĘPCZE, KARNE LUB UTRATĘ ZYSKÓW, NAWET JEŚLI ZOSTAŁ POWIADOMIONY O MOŻLIWOŚCI WYSTĄPIENIA TAKICH SZKÓD.
+
+6. WYŁĄCZENIE GWARANCJI
+
+OPROGRAMOWANIE JEST DOSTARCZANE "TAKIE, JAKIE JEST" BEZ JAKIEJKOLWIEK GWARANCJI, WYRAŹNEJ LUB DOROZUMIANEJ, W TYM W SZCZEGÓLNOŚCI GWARANCJI PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU LUB NIENARUSZANIA PRAW OSÓB TRZECICH.
+
+7. ROZWIĄZANIE LICENCJI
+
+Niniejsza Licencja obowiązuje do momentu jej rozwiązania. Prawa Użytkownika wynikające z niniejszej Licencji wygasają automatycznie bez powiadomienia w przypadku nieprzestrzegania któregokolwiek z jej warunków. Po rozwiązaniu Licencji Użytkownik ma obowiązek zniszczyć wszystkie kopie Oprogramowania będące w jego posiadaniu.
+
+8. PRAWO WŁAŚCIWE
+
+Niniejsza Licencja podlega prawu polskiemu i zgodnie z nim będzie interpretowana.
+
+9. KONTAKT
+
+W przypadku pytań dotyczących licencji lub w celu zgłoszenia naruszeń, prosimy o kontakt: Kamil Skaskiewicz
+Identyfikator pakietu: com.skaskiewicz.grafik-medyczny
+
+---
+
+KORZYSTAJĄC Z TEGO OPROGRAMOWANIA, UŻYTKOWNIK POTWIERDZA, ŻE ZAPOZNAŁ SIĘ Z NINIEJSZĄ LICENCJĄ, ZROZUMIAŁ JĄ I WYRAŻA ZGODĘ NA JEJ WARUNKI.
