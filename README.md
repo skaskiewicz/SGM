@@ -140,7 +140,8 @@ Wtyczki Tauri:
 
 ## Autor
 
-**Projekt stworzony przez**: Kamil Skaskiewicz  
+**Projekt stworzony przez**: Kamil Skaskiewicz
+**Kontakt**: sgm.kontakt@mailplus.pl  
 **Identyfikator pakietu**: com.skaskiewicz.grafik-medyczny
 
 ## ❤️ Wsparcie projektu (Drobna prośba)
@@ -151,11 +152,11 @@ Nie oczekuję wsparcia finansowego, jednak najlepszą i najbardziej motywującą
 
 Jeśli z powodzeniem korzystacie z **Systemu Grafików Medycznych** w swoim szpitalu, klinice, poradni czy oddziale, będzie mi niezmiernie miło, jeśli wyrazicie zgodę na umieszczenie nazwy Waszej placówki na oficjalnej liście użytkowników (w przygotowywanej sekcji *"Zaufali nam"*). 
 
-Jeśli chcielibyście w ten symboliczny sposób podziękować za program, bardzo proszę o krótką wiadomość z nazwą placówki (poprzez GitHub Issues lub email). Zobaczenie, gdzie mój kod ułatwia życie personelowi medycznemu, to dla mnie największa satysfakcja!
+Jeśli chcielibyście w ten symboliczny sposób podziękować za program, bardzo proszę o krótką wiadomość z nazwą placówki (poprzez GitHub Issues lub email: sgm.kontakt@mailplus.pl). Zobaczenie, gdzie mój kod ułatwia życie personelowi medycznemu, to dla mnie największa satysfakcja!
 
 ## Raportowanie błędów
 
-Jeśli napotkasz błąd, problem lub chcesz zaproponować nową funkcjonalność, zachęcam do kontaktu poprzez zakładkę **Issues** w repozytorium projektu na GitHubie lub bezpośredni kontakt mailowy.
+Jeśli napotkasz błąd, problem lub chcesz zaproponować nową funkcjonalność, zachęcam do kontaktu poprzez zakładkę **Issues** w repozytorium projektu na GitHubie lub bezpośredni kontakt mailowy: sgm.kontakt@mailplus.pl.
 
 ### Informacje, które warto załączyć przy zgłoszeniu:
 - **Wersja aplikacji**: 0.3.0
