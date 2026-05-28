@@ -140,7 +140,7 @@ Wtyczki Tauri:
 
 ## Autor
 
-**Projekt stworzony przez**: Kamil Skaskiewicz
+**Projekt stworzony przez**: Kamil Skaskiewicz  
 **Kontakt**: sgm.kontakt@mailplus.pl  
 **Identyfikator pakietu**: com.skaskiewicz.grafik-medyczny
 
