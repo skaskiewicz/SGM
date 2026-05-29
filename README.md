@@ -10,6 +10,7 @@ Zaawansowana aplikacja desktopowa do zarządzania harmonogramami pracowników pl
 - [Wymagania systemowe](#wymagania-systemowe)
 - [Instalacja](#instalacja)
 - [Jak korzystać](#jak-korzystać)
+- [Zrzuty ekranu](#zrzuty-ekranu)
 - [Architektura](#architektura)
 - [Gdzie wykorzystać](#gdzie-wykorzystać)
 - [Autor](#autor)
@@ -95,6 +96,14 @@ Aplikacja bazuje na kodach literowych, które można dowolnie edytować globalni
 - Gdy grafik jest gotowy, kliknij przycisk **"🖨️ Drukuj"**.
 - Wybierz, czy chcesz wydrukować tylko wybrany miesiąc, czy kompleksowe rozliczenie całego kwartału.
 - Aplikacja automatycznie ukryje interfejs i wygeneruje czysty, sformatowany dokument gotowy do podpisu.
+
+## Zrzuty ekranu
+
+![Zrzut ekranu 1](docs/images/screenshot01.png)
+
+![Zrzut ekranu 2](docs/images/screenshot02.png)
+
+![Zrzut ekranu 3](docs/images/screenshot03.png)
 
 ## Architektura
 
